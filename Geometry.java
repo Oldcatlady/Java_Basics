@@ -116,6 +116,8 @@ further below, for example when I write + volume.
           System.out.println("Volumen: " + volumen);
           System.out.println("Oberfläche: " + oberflaeche);
 
+        sc.close();
+
       }
 
 
