@@ -32,7 +32,7 @@ public class NichtNurMain {
 	        /*
 	         * Aha, da kann ich also einfach "berechner-irgendwas" 
 	         * reinschreiben, und es passiert? Ich könnte es auch Pizza nennen, aber 
-	         * das könnte ich mir schlecht merken.
+	         * dann könnte ich mir schlecht merken, was es macht.
 	         */
 
 	        System.out.println("Summe: " + summe);
@@ -62,17 +62,7 @@ public class NichtNurMain {
 	         * return WERT;
 	         *     }
 	         */
-/*
- * Jetzt ist main nur noch „Steuerzentrale“.
- * Die eigentliche Arbeit machen Methoden - sagt GPT. So, so.
- * Ich meine zu erkennen, dass die geschwungenen 
- * Klammern hier sehr wichtig sind.
- * 
- * Später werde ich:
- * Klassen erstellen
- * Objekte erzeugen
- * Methoden an Objekten aufrufen
- */
+
 	    
 	    }
 	}
